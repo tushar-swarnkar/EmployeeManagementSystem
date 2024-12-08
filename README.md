@@ -24,7 +24,7 @@ A basic Employee Management System built using **Spring Boot** and **React.js**.
   - Java
   - Spring Boot
   - Spring Data JPA
-  - H2 Database (or any relational database)
+  - MySQL Database (for relational queries)
 
 ### 2. Frontend
 
